@@ -1,0 +1,123 @@
+
+ 
+#logo1 {
+    width:600px;
+    max-width:100%;
+    display:flex;
+    margin:auto;
+    height: auto;
+    padding-top: 35px;
+    padding-bottom: 25px;
+}
+
+ 
+
+
+hr {
+    text-decoration: double;
+    border: #004AAD solid 4px;
+}
+
+@media(max-width: 1200px){
+    #navbar{
+        display:none;
+       }
+    #mobileNavbar{
+        display: block;
+    }
+    
+    
+    
+    }
+
+    @media(min-width: 1200px){
+         
+        #mobileNavbar{
+            display: none;
+        }
+         
+        }
+
+#navbar {
+    background-color: #004AAD;
+    border: #004AAD solid 1px;
+    border-radius: 5px;
+    color:white;
+    font-family: arial;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+
+ }
+
+.navbarButton {
+
+    padding-right: 15px;
+     
+}
+
+#mobileNavbar{
+    background-color: #004AAD;
+    border: #004AAD solid 1px;
+    border-radius: 5px;
+    color:white;
+    font-family: arial;
+}
+.mobileNavbarButton {
+    padding-right: 15px;
+ }
+ 
+.mobileNavbarButton:hover , .navbarButton:hover {
+text-decoration: underline;
+}
+
+
+ 
+
+
+
+   a, a:hover, a:visited, a:active {
+       color:inherit;
+       text-decoration:none;
+   }
+   
+   
+   #registerLabel,#labelUsername,#labelPass,.registerBTN{
+    
+    
+       font-family:arial;
+       color:#004AAD;
+       
+   
+   }
+   
+   
+   .registerContainer{
+       
+    text-align:center;   
+       
+   }
+   
+   
+   .registerBTN{
+       
+    font-size:29px;   
+    color:white;
+    background-color:#004AAD;
+    border:1px solid #004AAD;
+    border-radius:5px;
+       
+   }
+   .registerContainer{
+       
+   padding-top:100px;
+   }
+   
+   
+   #already{
+       
+       font-family:arial;
+       color:#004AAD;
+       
+   }
+   

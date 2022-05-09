@@ -1,0 +1,34 @@
+body{
+    font-family:arial;
+     text-align:center;
+     color:white;
+ }
+ 
+ 
+ body{
+          background-color:#004aad;
+
+ }
+ 
+ 
+ #sbmtbtn {
+     background-color:black;
+     color:white;
+     font-size:30;
+ }
+ 
+ 
+ #logout{
+     color:red;
+     background-color:black;
+     padding: 3px;
+     border-radius:5px;
+          font-size:30;
+          display:flex;
+float:right;
+ }
+ 
+ 
+ textarea{
+     resize:none;
+ }
