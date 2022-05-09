@@ -1,0 +1,162 @@
+
+ 
+#logo1 {
+    width:600px;
+    max-width:100%;
+    display:flex;
+    margin:auto;
+    height: auto;
+    padding-top: 35px;
+    padding-bottom: 25px;
+}
+
+#titl  {
+    
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: double;
+    font-style: italic;
+}
+
+
+hr {
+    text-decoration: double;
+    border: #004AAD solid 4px;
+}
+
+@media(max-width: 1200px){
+    #navbar{
+        display:none;
+       }
+    #mobileNavbar{
+        display: block;
+    }
+    #left-side,#advert1 {
+        display: none;
+    }
+    #right-side {
+        font-size: 25px;
+    }
+    #penImg {
+        display: none;
+     }
+     #penImg2 {
+        display: inline-block;
+        width: 300px;
+        height: auto;
+        border: white 5px solid;
+        border-radius: 10px;
+     }
+    
+    }
+
+    @media(min-width: 1200px){
+         
+        #mobileNavbar{
+            display: none;
+        }
+        #penImg2 {
+            display: none;
+             
+         }
+        }
+
+#navbar {
+    background-color: #004AAD;
+    border: #004AAD solid 1px;
+    border-radius: 5px;
+    color:white;
+    font-family: arial;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+
+ }
+
+.navbarButton {
+
+    padding-right: 15px;
+    padding-right: 15px;
+    
+}
+
+#mobileNavbar{
+    background-color: #004AAD;
+    border: #004AAD solid 1px;
+    border-radius: 5px;
+    color:white;
+    font-family: arial;
+}
+.mobileNavbarButton {
+    padding-right: 15px;
+    padding-right: 15px;
+}
+ 
+.mobileNavbarButton:hover , .navbarButton:hover {
+text-decoration: underline;
+}
+
+#mainDiv {
+    background-color: #004AAD;
+    border: white solid 1px;
+    border-radius: 5px;
+}
+
+#welcometext, #didyouknow {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#left-side {
+float: left;
+text-align: center;
+border-right: white 12px solid;
+ padding-right: 140px;
+ border-radius: 8px;
+
+}
+
+#right-side {
+ text-align: center;
+}
+
+ #shockDude,#penImg {
+     width: 300px; ;
+     height: 200px;
+     border: #004AAD 1px solid;
+     border-radius: 8px;
+ }
+
+ #footer1 {
+     text-align: center;
+     font-size: 16px;
+     font-family: Arial, Helvetica, sans-serif;
+      background-color: #004AAD;
+     color: white;
+     border: #004AAD 1 px solid;
+     border-radius: 20px;
+     padding: 1px;
+ }
+
+
+ #mainDiv {
+     padding-bottom: 140px;
+ }
+
+ #advertImg1 {
+     width: 800px;
+     height: 100px;
+     text-align: center;
+     margin: auto;
+     display: flex;
+     border: white 1px solid;
+     border-radius: 15px;
+ }
+
+
+
+   a, a:hover, a:visited, a:active {
+       color:inherit;
+       text-decoration:none;
+   }

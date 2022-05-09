@@ -1,0 +1,27 @@
+[16-Apr-2022 16:01:53 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/webswptt/public_html/blog/index.php on line 5
+[16-Apr-2022 16:01:55 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/webswptt/public_html/blog/index.php on line 5
+[16-Apr-2022 16:02:08 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/webswptt/public_html/blog/index.php on line 5
+[16-Apr-2022 16:02:24 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/webswptt/public_html/blog/index.php on line 5
+[16-Apr-2022 16:02:48 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/webswptt/public_html/blog/index.php on line 5
+[16-Apr-2022 16:02:49 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/webswptt/public_html/blog/index.php on line 5
+[16-Apr-2022 16:02:49 UTC] PHP Parse error:  syntax error, unexpected token "if" in /home/webswptt/public_html/blog/index.php on line 5
+[16-Apr-2022 16:03:00 UTC] PHP Warning:  Array to string conversion in /home/webswptt/public_html/blog/index.php on line 8
+[16-Apr-2022 16:03:27 UTC] PHP Warning:  Array to string conversion in /home/webswptt/public_html/blog/index.php on line 54
+[16-Apr-2022 16:03:28 UTC] PHP Warning:  Array to string conversion in /home/webswptt/public_html/blog/index.php on line 54
+[16-Apr-2022 16:03:37 UTC] PHP Warning:  Array to string conversion in /home/webswptt/public_html/blog/index.php on line 54
+[16-Apr-2022 16:03:38 UTC] PHP Warning:  Array to string conversion in /home/webswptt/public_html/blog/index.php on line 54
+[16-Apr-2022 16:03:39 UTC] PHP Warning:  Array to string conversion in /home/webswptt/public_html/blog/index.php on line 54
+[16-Apr-2022 16:08:59 UTC] PHP Warning:  Array to string conversion in /home/webswptt/public_html/blog/index.php on line 56
+[16-Apr-2022 16:09:03 UTC] PHP Warning:  Array to string conversion in /home/webswptt/public_html/blog/index.php on line 56
+[16-Apr-2022 16:11:45 UTC] PHP Warning:  Undefined variable $listArray in /home/webswptt/public_html/blog/index.php on line 57
+[16-Apr-2022 16:11:45 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home/webswptt/public_html/blog/index.php:57
+Stack trace:
+#0 /home/webswptt/public_html/blog/index.php(57): implode()
+#1 {main}
+  thrown in /home/webswptt/public_html/blog/index.php on line 57
+[16-Apr-2022 16:11:46 UTC] PHP Warning:  Undefined variable $listArray in /home/webswptt/public_html/blog/index.php on line 57
+[16-Apr-2022 16:11:46 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home/webswptt/public_html/blog/index.php:57
+Stack trace:
+#0 /home/webswptt/public_html/blog/index.php(57): implode()
+#1 {main}
+  thrown in /home/webswptt/public_html/blog/index.php on line 57
