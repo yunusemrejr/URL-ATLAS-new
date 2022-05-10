@@ -77,7 +77,7 @@
                     <input type="password" name="password" class="inputPass" required><br><br>
                 </div><br><center><div class="g-recaptcha" 
                       data-callback="recaptcha_callback"
-                      data-sitekey="6LfcrcIfAAAAAI-mJ56xviM49mb2cp1RMpKTMiip"></div></center><br>
+                      data-sitekey="6LfcrcIxxxxxxxxxxxRMpKTMiip"></div></center><br>
                 <button type="submit" class="registerBTN" disabled>Login</button>
                 
             </form>
