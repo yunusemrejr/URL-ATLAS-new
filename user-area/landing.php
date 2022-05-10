@@ -99,7 +99,7 @@ else {
 <label>your REAL e-mail address:</label><br><br>
 <input name='email' type="email"><br><br><br>
 
-<center> <div class="g-recaptcha" data-callback="recaptcha_callback" data-sitekey="6LfcrcIfAAAAAI-mJ56xviM49mb2cp1RMpKTMiip"></div> </center> 
+<center> <div class="g-recaptcha" data-callback="recaptcha_callback" data-sitekey="6LfcrcIfxxxxxx9mb2cxxxxTMiip"></div> </center> 
                   <br><br>    
 <input type="submit" id='sbmtbtn' name='buttonsubmit' value='Send for approval' disabled> 
  
