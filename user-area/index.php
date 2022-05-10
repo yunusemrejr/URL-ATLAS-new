@@ -78,7 +78,7 @@
                 </div><br>
                       <center><div class="g-recaptcha" 
                       data-callback="recaptcha_callback"
-                      data-sitekey="6LfcrcIfAAAAAI-mJ56xviM49mb2cp1RMpKTMiip"></div></center>
+                      data-sitekey="6LfcrcIfAAAAAI-xxxxp1RMpKTMiip"></div></center>
 
                 <br>
                 <button type="submit" id='btnreg' class="registerBTN" disabled>Register</button><br><br><br>
